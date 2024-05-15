@@ -8,7 +8,7 @@
 ### COMMANDS:
 ```
 git clone https://github.com/tranju664/k8s-installation.git
-cd k8sinstall
+cd k8s-installation
 sudo sh installk8s-1.23.8.sh
 ```
 
