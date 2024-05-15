@@ -3,11 +3,11 @@
 ## STEP 1: MASTER NODE INSTALLATION
 
 - Create EC2 Instance from UBUNTU AMI with type t2.medium (2 core CPU and 4GB Ram)
-- Github URL: https://github.com/OpqTech/kubernetes-installation [use installk8s-1.23.8.sh - stable]
+- Github URL: https://github.com/tranju664/k8s-installation.git [use installk8s-1.28.8.sh - stable]
 
 ### COMMANDS:
 ```
-git clone https://github.com/OpqTech/kubernetes-installation.git 
+git clone https://github.com/tranju664/k8s-installation.git
 cd k8sinstall
 sudo sh installk8s-1.23.8.sh
 ```
